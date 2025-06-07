@@ -178,7 +178,7 @@ ps5_kernel_offset_list = {
     
     [{ "8.00", "8.20", "8.40", "8.60" }] = {
 
-        DATA_BASE = 0xC60000,
+        DATA_BASE = 0xC70000,
         DATA_SIZE = nil,
 
         DATA_BASE_DYNAMIC = 0x10000,
@@ -197,7 +197,7 @@ ps5_kernel_offset_list = {
 
     [{ "9.00" }] = {
 
-        DATA_BASE = 0xC90000,
+        DATA_BASE = 0xCA0000,
         DATA_SIZE = nil,
 
         DATA_BASE_DYNAMIC = 0x10000,
@@ -217,7 +217,7 @@ ps5_kernel_offset_list = {
 
     [{ "9.05", "9.20", "9.40", "9.60" }] = {
 
-        DATA_BASE = 0xC90000,
+        DATA_BASE = 0xCA0000,
         DATA_SIZE = nil,
 
         DATA_BASE_DYNAMIC = 0x10000,
@@ -237,7 +237,7 @@ ps5_kernel_offset_list = {
 
     [{ "10.00", "10.01" }] = {
 
-        DATA_BASE = 0xCB0000,
+        DATA_BASE = 0xCC0000,
         DATA_SIZE = nil,
 
         DATA_BASE_DYNAMIC = 0x10000,
